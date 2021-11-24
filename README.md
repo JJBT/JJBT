@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋 Wassap 👋
 
+Keep spending of Keep spendin' most my life... (there) 🔨
 <!--
 **JJBT/JJBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
