@@ -1,4 +1,5 @@
->  *...я всегда думал дым в облаках...👓*
+🇺🇦 🇺🇦 🇺🇦
+>  *...я всегда думал дым в облаках...*
 <!--
 **JJBT/JJBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
