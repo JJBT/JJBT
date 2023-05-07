@@ -1,4 +1,13 @@
-🇺🇦 🇺🇦 🇺🇦
+####  🤖 Average Computer Vision Enjoyer from Kharkiv 🇺🇦 
+
+Some 💣:
+* [Skin-Disease-Recognition](https://github.com/lqrhy3/skin-disease-recognition)
+* [Brain-Segmentation](https://github.com/JJBT/transformer_segmentation_model)
+* [Few-Shot-Object-Detection](https://github.com/JJBT/RevO)
+* [Emotion-Recognition](https://github.com/lqrhy3/Emotion-Recognition-PRJCT2019)
+
+###### See pinned section below
+
 <!--
 **JJBT/JJBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
