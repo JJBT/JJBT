@@ -2,9 +2,9 @@
 
 Some 💣:
 * [Skin-Disease-Recognition](https://github.com/lqrhy3/skin-disease-recognition)
-* [Brain-Segmentation](https://github.com/JJBT/transformer_segmentation_model)
+* [Brain-Segmentation](https://github.com/JJBT/brain-segmentation)
 * [Few-Shot-Object-Detection](https://github.com/JJBT/RevO)
-* [Emotion-Recognition](https://github.com/lqrhy3/Emotion-Recognition-PRJCT2019)
+* [Emotion-Recognition](https://github.com/lqrhy3/emotion-recognition)
 
 ###### See pinned section below
 
