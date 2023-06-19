@@ -1,6 +1,6 @@
 ####  🤖 Average Computer Vision Enjoyer from Kharkiv 🇺🇦 
 
-Some 💣:
+Danger zone ⚠️ 💣:
 * [Skin-Disease-Recognition](https://github.com/lqrhy3/skin-disease-recognition)
 * [Brain-Segmentation](https://github.com/JJBT/brain-segmentation)
 * [Few-Shot-Object-Detection](https://github.com/JJBT/RevO)
